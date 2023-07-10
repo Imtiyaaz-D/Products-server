@@ -2,26 +2,25 @@
     "products":[
         {
             "id":1,
-            "name":"Converse-all-star-yellow",
+            "name":"Converse All Star Yellow",
             "image":"https://i.postimg.cc/hGQVWWHD/Converse-all-star-yellow-612x612.jpg",
             "description":"A yellow all star",
             "price":"350"
         },
         {
             "id":2,
-            "name":"Converse-all-star-navy",
+            "name":"Converse All Star Navy",
             "image":"https://i.postimg.cc/Hnz6c1WG/converse-navy-shoes.jpg",
             "description":"A navy all star",
             "price":"400"
         },
         {
             "id":3,
-            "name":"converse-all-star-chuck-70",
+            "name":"converse All Star Chuck 70",
             "image":"https://i.postimg.cc/x8qS15YP/tenis-converse-all-star-chuck-70-hi-preto-589a0892dc8ed1f6b1ad9fe702da72e6.png",
-            "description":" A classic all star``",
+            "description":" A classic all star",
             "price":"450"
         }
 
     ]
 }
-
